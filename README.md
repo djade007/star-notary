@@ -1,6 +1,6 @@
-# CryptoStar Dapp
+# StarNotary Dapp
 
-**CryptoStar** is a decentralized application built on the Etherium Rinkeby Testnet network.
+**StarNotary** is a decentralized application built on the Etherium Rinkeby Testnet network.
 It is used to register stars information and look up registered stars.
 
 - Truffle version: 5.1.49
